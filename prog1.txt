@@ -1,0 +1,9 @@
+>>> x=1.2
+>>> print(x,type(x),id(x))
+1.2 <class 'float'> 2055204810224
+>>> x=3.14
+>>> print(x,type(x),id(x))
+3.14 <class 'float'> 2055208306192
+>>> x=10e2
+>>> print(x,type(x),id(x))
+1000.0 <class 'float'> 2055204809648
